@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExamApp</string>
+    <string name="this_is_your_question">This is your question</string>
+    <string name="exam_app">Exam App</string>
+    <string name="this_is_option_1">This is option 1</string>
+    <string name="this_is_option_2">This is option 2</string>
+    <string name="this_is_option_3">This is option 3</string>
+    <string name="this_is_option_4">This is option 4</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="result">Result</string>
+    <string name="your_score_is">Your score is:</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="sign_up_here">Sign up here</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="signup">Sign up</string>
+    <string name="loginhere">Login here</string>
+</resources>
